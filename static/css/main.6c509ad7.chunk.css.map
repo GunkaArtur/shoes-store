@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,WACI,WACJ,CAEA,KACI,YAAa,CACb,aACJ,CAEA,iBACI,WACJ,CAEA,gBACI,kBACJ","file":"main.6c509ad7.chunk.css","sourcesContent":["#root, .app {\n    height: 100%;\n}\n\n.app {\n    width: 1440px;\n    margin: 0 auto;\n}\n\n.app .ant-layout {\n    height: 100%;\n}\n\n.ant-typography {\n    margin: 0 !important;\n}"]}
